@@ -1,15 +1,15 @@
-package com.plecok.randomizer;
+package com.plecok.randomizer.model;
 
 import javafx.beans.property.SimpleStringProperty;
 
 /**
  * Created by micz on 2018-11-25.
  */
-public class Model {
+public class MovieRow {
 
   private final SimpleStringProperty title, director, group, seen;
 
-  public Model(String line) {
+  public MovieRow(String line) {
     String[] split = line.split(";");
     this.title = new SimpleStringProperty(split[0]);
     this.director = new SimpleStringProperty(split[1]);

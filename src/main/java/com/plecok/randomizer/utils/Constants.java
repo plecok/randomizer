@@ -1,4 +1,4 @@
-package com.plecok.randomizer;
+package com.plecok.randomizer.utils;
 
 import java.net.URISyntaxException;
 import java.nio.file.Path;
@@ -11,7 +11,7 @@ public class Constants {
 
   public static Path DB() {
     try {
-      return Paths.get(Constants.class.getResource("../../../db.txt").toURI());
+      return Paths.get(Constants.class.getResource("../../../../db.txt").toURI());
 
     } catch (URISyntaxException e) {
       throw new RuntimeException(e);

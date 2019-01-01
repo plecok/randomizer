@@ -1,5 +1,7 @@
-package com.plecok.randomizer;
+package com.plecok.randomizer.controller;
 
+import com.plecok.randomizer.model.MovieRow;
+import com.plecok.randomizer.service.RandomizeService;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
@@ -7,39 +9,22 @@ import javafx.event.EventHandler;
 import javafx.fxml.FXML;
 import javafx.scene.control.*;
 import javafx.scene.control.cell.PropertyValueFactory;
+import org.springframework.stereotype.Controller;
 
 import java.nio.file.Files;
-import java.util.Collections;
 
-import static com.plecok.randomizer.Constants.DB;
+import static com.plecok.randomizer.utils.Constants.DB;
 
-public class Controller {
-
-  @FXML
-  private TableView<Model> tableView;
-
-  @FXML
-  private TableColumn<Model, String> titleColumn;
-
-  @FXML
-  private TableColumn<Model, String> directorColumn;
-
-  @FXML
-  private TableColumn<Model, String> groupColumn;
-
-  @FXML
-  private TableColumn<Model, String> seenColumn;
-
-  @FXML
-  private Button button;
-
-  @FXML
-  private CheckBox onlyNew;
-
-  @FXML
-  private TextField searchField;
+@Controller
+public class MainController extends AbstractLayoutController{
 
   private EventHandler<ActionEvent> onStart, onDraw;
+
+  private final RandomizeService randomizeService;
+
+  public MainController(RandomizeService randomizeService) {
+    this.randomizeService = randomizeService;
+  }
 
   @FXML
   private void initialize() {
@@ -51,19 +36,19 @@ public class Controller {
     populate(load());
 
     onStart = event -> {
-      populate(getRandomElements(tableView.getItems()));
+      populate(randomizeService.getRandomElements(tableView.getItems(), onlyNew.isSelected()));
       button.setText("Refresh");
       button.setOnAction(onDraw);
     };
     onDraw = event -> {
       populate(load());
-      button.setText("Start");
+      button.setText("Randomize");
       button.setOnAction(onStart);
     };
 
     button.setOnAction(onStart);
     searchField.setOnKeyPressed(event -> {
-      ObservableList<Model> filtered = FXCollections.observableArrayList();
+      ObservableList<MovieRow> filtered = FXCollections.observableArrayList();
       String text = searchField.getText().toUpperCase();
       load().stream()
               .filter(model -> "".equals(text)
@@ -74,15 +59,15 @@ public class Controller {
     });
   }
 
-  private void populate(ObservableList<Model> values){
+  private void populate(ObservableList<MovieRow> values){
     tableView.setItems(values);
   }
 
-  private ObservableList<Model> load() {
-    ObservableList<Model> data = FXCollections.observableArrayList();
+  private ObservableList<MovieRow> load() {
+    ObservableList<MovieRow> data = FXCollections.observableArrayList();
     try {
       Files.readAllLines(DB()).stream()
-              .map(Model::new)
+              .map(MovieRow::new)
               .forEach(data::add);
 
     } catch (Exception e) {
@@ -90,14 +75,4 @@ public class Controller {
     }
     return data;
   }
-
-  private ObservableList<Model> getRandomElements(ObservableList<Model> elements) {
-    ObservableList<Model> models = FXCollections.observableArrayList();
-    elements.stream()
-            .filter(model -> "NO".equals(model.getSeen()) || !onlyNew.isSelected())
-            .forEach(models::add);
-    Collections.shuffle(models);
-    return FXCollections.observableArrayList(models.subList(0, 3));
-  }
-
 }
