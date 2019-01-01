@@ -1,0 +1,222 @@
+Fight Club;David Fincher;Box;YES
+Dym;Paul Auster;Box;YES
+Lulu na moście;Paul Auster;Box;YES
+Donnie Darko;Richard Kelly;Box;YES
+Księżniczka Mononoke;Hayao Miyazaki;Box;NO
+Tajemniczy świat Arrietty;Hiromasa Yonebayashi;Box;NO
+Przed wschodem słońca;Richard Linklater;Box;YES
+Zrywa się wiatr;Hayao Miyazaki;Box;NO
+Moneyball;Bennett Miller;Box;YES
+Miś;Stanisław Bareja;Box;YES
+Rejs;Marek Piwowski;Box;YES
+Śmierć i dziewczyna;Roman Polański;Box;NO
+Tam gdzie rosną poziomki;Ingmar Bergman;Box;YES
+Pojutrze;Roland Emmerich;Box;YES
+Kontrolerzy;Nimród Antal;Box;YES
+Krucjata Bourne'a;Paul Greengrass;Box;YES
+Przemiany;Łukasz Barczyk;Box;NO
+Łowca jeleni;Michael Cimino;Box;NO
+Django;Quentin Tarantino;Box;YES
+Infiltracja;Martin Scorsese;Box;YES
+Duma i uprzedzenie;Joe Wright;Box;YES
+Big Short;Adam McKay;Box;YES
+Fargo;Ethan Coen,Jeffrey Schwarz,Joel Coen;Box;YES
+Hazardziści;John Dahl;Box;YES
+Kill Bill: Volume 1;Quentin Tarantino;Box;YES
+1492: Wyprawa do raju;Ridley Scott;Box;YES
+Hair;Milos Forman;Box;YES
+Bezdroża;Alexander Payne;Box;YES
+12 gniewnych ludzi;Sidney Lumet;Box;YES
+Brooklyn Boogie;Paul Auster,Wayne Wang;Box;YES
+Moon;Duncan Jones;Booklet;YES
+Baby Driver;Edgar Wright;Booklet;YES
+Paterson;Jim Jarmusch;Booklet;YES
+Butch Cassidy i Sundance Kid;George Roy Hill;Booklet;YES
+Bękarty wojny;Quentin Tarantino;Blu-ray;YES
+Mad Max: Na drodze gniewu;George Miller;Blu-ray;YES
+Interstellar;Christopher Nolan;Blu-ray;YES
+Zły porucznik;Abel Ferrara;Box;NO
+Pogrzeb;Abel Ferrara;Box;NO
+Pulp Fiction;Quentin Tarantino;Package;YES
+Jackie Brown;Quentin Tarantino;Package;NO
+Od zmierzchu do świtu;Robert Rodriguez;Package;NO
+Dyskretny urok burżuazji;Luis Buñuel;Package;NO
+Mroczny przedmiot pożądania;Luis Buñuel;Package;NO
+Dziennik panny służącej;Luis Buñuel;Package;NO
+Widmo wolności;Luis Buñuel;Package;NO
+Tristana;Luis Buñuel;Package;YES
+Droga mleczna;Luis Buñuel;Package;NO
+Buntownik bez powodu;Nicholas Ray;Package;YES
+Na wschód od edenu;Elia Kazan;Package;NO
+Olbrzym;George Stevens;Package;NO
+Harry Potter i Kamień Filozoficzny;Chris Columbus;Package;NO
+Harry Potter i Insygnia Śmierci część 1;David Yates;Package;NO
+Harry Potter i Komnata Tajemnic;Chris Columbus;Package;NO
+Harry Potter i Zakon Feniksa;David Yates;Package;NO
+Harry Potter i Książe Półkrwi;David Yates;Package;NO
+Wałęsa: Człowiek z Nadziei;Andrzej Wajda;Booklet;NO
+Lotna;Andrzej Wajda;Box;NO
+Pan Tadeusz;Andrzej Wajda;Box;NO
+Pokolenie;Andrzej Wajda;Box;NO
+Panny z Wilka;Andrzej Wajda;Booklet;NO
+Smuga Cienia;Andrzej Wajda;Package;NO
+Tatarak;Andrzej Wajda;Package;NO
+Katyń;Andrzej Wajda;Package;NO
+Danton;Andrzej Wajda;Package;NO
+Dyrygent;Andrzej Wajda;Package;NO
+Korczak;Andrzej Wajda;Package;NO
+Zemsta;Andrzej Wajda;Package;YES
+Pierścionek z orłem w koronie;Andrzej Wajda;Package;NO
+Vincent & Theo;Robert Altman;Box;NO
+Dziękujemy za palenie;Jason Reitman;Box;NO
+Siedemnaście Mgnień Wiosny;Tatyana Lioznova;Box;NO
+Kogel mogel;Roman Załuski;Box;NO
+Wszystko albo nic;Mike Leigh;Slim-box;NO
+Lolita;Adrian Lyne;Slim-box;NO
+Krwawa niedziela;Paul Greengrass;Slim-box;NO
+Ukryte pragnienia;Bernardo Bertolucci;Slim-box;NO
+Transylvania;Tony Gatlif;Slim-box;NO
+Dziwadła i ludzie;Aleksey Balabanov;Slim-box;NO
+Rzeka;Aleksey Balabanov;Slim-box;NO
+Asoka Wielki;Santosh Sivan;Casebook;NO
+Mulholland Drive;David Lynch;Casebook;NO
+Germinal;Claude Berri;Casebook;NO
+Dobry, zły i brzydki;Sergio Leone;Casebook;NO
+Larry Crowne uśmiech losu;Tom Hanks;Casebook;NO
+Wenus w futrze;Roman Polański;Casebook;NO
+Chce się żyć;Pieprzyca Maciej;Casebook;NO
+Koneser;Giuseppe Tornatore;Casebook;NO
+Julie & Julia;Nora Ephron;Casebook;NO
+Róża;Wojciech Smarzowski;Casebook;NO
+Sala Samobójców;Jan Komasa;Casebook;NO
+Prawo Bronxu;Robert De Niro;Casebook;NO
+Jak zostać królem;Tom Hooper;Casebook;NO
+Popioły czasu: powrót;Kar Wai Wong;Casebook;NO
+Zabić prezydenta;Niels Mueller;Casebook;NO
+Znak miłości;Richard Attenborough;Casebook;NO
+Miesiąc miodowy w Las Vegas;Andrew Bergman;Casebook;NO
+Mustang;Deniz Gamze Ergüven;Casebook;NO
+Moje córki krowy;Kinga Dębska;Casebook;NO
+Dziewczyna z tatuażem;David Fincher;Casebook;NO
+Julieta;Pedro Almodóvar;Casebook;NO
+Ziemia obiecana;Andrzej Wajda;Box;NO
+Social Network;David Fincher;Box;YES
+Wszystko Na Sprzedaż;Andrzej Wajda;Box;NO
+Kanał;Andrzej Wajda;Booklet;NO
+Underground;Emir Kusturica;Casebook;YES
+Zapach kobiety;Martin Brest;Box;NO
+Okruchy dnia;James Ivory;Box;NO
+Troja;Wolfgang Petersen;Box;NO
+Amadeusz;Milos Forman;Blu-ray;NO
+W głowie się nie mieści;Pete Docter;Casebook;YES
+Labirynt fauna;Guillermo Del Toro;Box;NO
+Mandarynki;Zaza Urushadze;Box;NO
+Kwiat wiśni i czerwona fasola;Naomi Kawase;Box;NO
+Big Lebowski;Joel Coen;Blu-ray;NO
+Królestwo niebieskie;Ridley Scott;Box;NO
+Stowarzyszenie umarłych poetów;Peter Weir;Box;NO
+Orbitowanie bez cukru;Ben Stiller;Box;NO
+Tajemnica Brokeback Mountain;Ang Lee;Box;NO
+Trzy kobiety;Robert Altman;Slim-box;NO
+Powidoki;Andrzej Wajda;Casebook;NO
+Europa;Lars von Trier;Slim-box;NO
+Faraon;Jerzy Kawalerowicz;Booklet;NO
+Trzeba zabić tę miłość;Janusz Morgenstern;Booklet;NO
+Matka Joanna od Aniołów;Jerzy Kawalerowicz;Booklet;NO
+Kobieta i mężczyzna;Claude Lelouch;Booklet;NO
+Ironia losu;Eldar Ryazanov;Booklet;NO
+Whiplash;Damien Chazelle;Box;NO
+Grand Budapest Hotel;Wes Anderson;Box;NO
+Dopóki piłka w grze;Robert Lorenz;Box;NO
+Bogowie;Łukasz Palkowski;Booklet;NO
+Ziarno prawdy;Borys Lankosz;Booklet;NO
+Co się wydarzyło w Madison County;Clint Eastwood;Box;NO
+Contagion - Epidemia Strachu;Steven Soderbergh;Box;NO
+Przeminęło z wiatrem;Victor Fleming;Box;NO
+Król Artur;Antoine Fuqua;Box;NO
+Ida;Paweł Pawlikowski;Booklet;NO
+Austeria;Jerzy Kawalerowicz;Booklet;NO
+Ostatni dzień lata;Tadeusz Konwicki;Booklet;NO
+Giuseppe w Warszawie;Stanisław Lenartowicz;Booklet;NO
+Eroica;Andrzej Munk;Booklet;NO
+Wielki szu;Sylwester Chęciński;Booklet;NO
+Vabank II, czyli riposta;Juliusz Machulski;Booklet;NO
+Pianista;Roman Polański;Booklet;NO
+Nieustraszeni pogromcy wampirów;Roman Polański;Booklet;NO
+Nóż w wodzie;Roman Polański;Booklet;NO
+Dziecko Rosemary;Roman Polański;Booklet;NO
+Dr. No;Terence Young;Package;NO
+Goldfinger;Guy Hamilton;Package;NO
+Trzy kolory: Niebieski;Krzysztof Kieślowski;Package;NO
+Trzy kolory: Czerwony;Krzysztof Kieślowski;Package;NO
+Trzy kolory: Biały;Krzysztof Kieślowski;Package;NO
+Podwójne życie Weroniki;Krzysztof Kieślowski;Package;NO
+Krótki film o miłości;Krzysztof Kieślowski;Package;NO
+Krótki film o zabijaniu;Krzysztof Kieślowski;Package;NO
+Amator;Krzysztof Kieślowski;Package;NO
+Blizna;Krzysztof Kieślowski;Package;NO
+Przypadek;Krzysztof Kieślowski;Package;NO
+Żyj i pozwól umrzeć;Guy Hamilton;Package;NO
+Człowiek ze złotym pistoletem;Guy Hamilton;Package;NO
+Szpieg który mnie kochał;Lewis Gilbert;Package;NO
+Tylko dla twoich oczu;John Glen;Package;NO
+Ośmiorniczka;John Glen;Package;NO
+Zabójczy widok;John Glen;Package;NO
+Szept serca;Yoshifumi Kondo;Box;NO
+Podniebna poczta Kiki;Hayao Miyazaki;Box;NO
+Powrót do marzeń;Jamie Simone, Isao Takahata;Box;NO
+Ludzkie dzieci;Alfonso Cuaron;Box;NO
+Karmazynowy przypływ;Tony Scott;Box;YES
+Zimna wojna;Paweł Pawlikowski;Box;NO
+Jowita;Janusz Morgenstern;Booklet;YES
+Vabank;Juliusz Machulski;Booklet;NO
+Spirited Away;Hayao Miyazaki;Box;YES
+Bilet na ksiezyc;Jacek Bromski;Casebook;YES
+Opowieści z ziemiomorza;Gorô Miyazaki;Box;YES
+Salto;Tadeusz Konwicki;Booklet;YES
+Sanatorium pod klepsydrą;Wojciech Jerzy Has;Booklet;YES
+Las Vegas Parano;Terry Gilliam;Blu-ray;YES
+W poniedziałek rano;Otar Ioseliani;Slim-box;YES
+Ojciec chrzestny, część 1;Francis Ford Copolla;Blu-ray;YES
+Ojciec chrzestny, część 2;Francis Ford Copolla;Blu-ray;YES
+Ojciec chrzestny, część 3;Francis Ford Copolla;Blu-ray;YES
+Harry Potter i Czara Ognia;Mike Newell;Package;YES
+Król Nowego Jorku;Abel Ferrara;Box;YES
+Nędznicy;Tom Hooper;Booklet;YES
+Lewiatan;Andrey Zvyagintsev;Booklet;YES
+Salto;Tadeusz Konwicki;Booklet;YES
+Ja, robot;Alex Proyas;Box;YES
+To właśnie miłość;Richard Curtis;Box;YES
+Ultimatum Bourne'a;Paul Greengrass;Box;YES
+Igrzyska śmierci: W pierścieniu ognia;Francis Lawrence;Booklet;YES
+Igrzyska śmierci: Kosogłos część 1;Francis Lawrence;Booklet;YES
+Igrzyska śmierci: Kosogłos część 2;Francis Lawrence;Booklet;YES
+Igrzyska śmierci;Gary Ross;Booklet;YES
+Blade Runner 2049;Denis Villeneuve;Booklet;YES
+Piękność dnia;Luis Buñuel;Package;YES
+Harry Potter i Więzień z Azkabanu;Alfonso Cuarón;Package;YES
+Niewinni czarodzieje;Andrzej Wajda;Booklet;YES
+Wesele;Andrzej Wajda;Booklet;YES
+Popiół i diament;Andrzej Wajda;Booklet;YES
+Człowiek z marmuru;Andrzej Wajda;Package;YES
+Człowiek z żelaza;Andrzej Wajda;Package;YES
+Bez znieczulenia;Andrzej Wajda;Package;YES
+Kronika wypadków miłosnych;Andrzej Wajda;Package;YES
+Dobrze się kłamie w miłym towarzystwie;Paolo Genovese;Box;YES
+Gra Endera;Gavin Hood;Booklet;YES
+Pociąg;Jerzy Kawalerowicz;Booklet;YES
+Seksmisja;Juliusz Machulski;Booklet;YES
+Boska Florence;Stephen Frears;Casebook;YES
+Sztuka kochania;Maria Sadowska;Booklet;YES
+Pozdrowienia z Rosji;Terence Young;Package;YES
+LA LA Land;Damien Chazelle;Casebook;YES
+Rashomon;Akira Kurosawa;Box;YES
+Ostatnia rodzina;Jan P. Matuszynski;Casebook;YES
+Potop Redivivus;Jerzy Hoffman;Booklet;YES
+Lepiej być nie może;James L. Brooks;Box;YES
+Całkowite zaćmienie;Agnieszka Holland;Casebook;YES
+Słodkie życie;Federico Fellini;Casebook;YES
+Moonraker;Lewis Gilbert;Package;YES
+Harry Potter i Insygnia Śmierci część 2;David Yates;Package;YES
+Magia w blasku księżyca;Woody Allen;Casebook;YES
+Rękopis znaleziony w Saragossie;Wojciech Has;Booklet;YES

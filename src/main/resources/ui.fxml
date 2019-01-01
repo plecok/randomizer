@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.geometry.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<GridPane alignment="CENTER" hgap="10" prefHeight="840.0" prefWidth="1230.0" vgap="10" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.plecok.randomizer.Controller">
+    <columnConstraints>
+        <ColumnConstraints />
+    </columnConstraints>
+    <rowConstraints>
+        <RowConstraints />
+        <RowConstraints />
+    </rowConstraints>
+    <children>
+        <BorderPane prefHeight="840.0" prefWidth="1230.0" GridPane.rowIndex="1">
+            <top>
+                <HBox prefHeight="59.0" prefWidth="675.0" BorderPane.alignment="TOP_CENTER">
+                    <children>
+                        <Button fx:id="button" mnemonicParsing="false" text="Randomize">
+                            <HBox.margin>
+                                <Insets left="10.0" top="10.0" />
+                            </HBox.margin>
+                        </Button>
+                  <TextField fx:id="searchField" prefHeight="31.0" prefWidth="510.0">
+                     <HBox.margin>
+                        <Insets left="10.0" top="10.0" />
+                     </HBox.margin>
+                  </TextField>
+                        <CheckBox fx:id="onlyNew" mnemonicParsing="false" text="Only new">
+                            <HBox.margin>
+                                <Insets left="10.0" top="15.0" />
+                            </HBox.margin>
+                        </CheckBox>
+                    </children>
+                </HBox>
+            </top>
+            <center>
+                <ScrollPane hbarPolicy="NEVER" pannable="true" prefHeight="200.0" prefWidth="200.0" vbarPolicy="NEVER" BorderPane.alignment="CENTER">
+                    <content>
+                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="200.0" prefWidth="200.0">
+                            <children>
+                                <TableView fx:id="tableView" prefHeight="697.0" prefWidth="1214.0">
+                                    <columns>
+                                        <TableColumn fx:id="titleColumn" prefWidth="403.0" text="Title" />
+                                        <TableColumn fx:id="directorColumn" minWidth="0.0" prefWidth="290.0" text="Director" />
+                                        <TableColumn fx:id="groupColumn" minWidth="6.0" prefWidth="182.0" text="Group" />
+                                        <TableColumn fx:id="seenColumn" minWidth="0.0" prefWidth="192.0" text="Seen" />
+                              <TableColumn fx:id="seenColumn1" minWidth="0.0" prefWidth="119.0" text="Action" />
+                                    </columns>
+                                </TableView>
+                            </children>
+                        </AnchorPane>
+                    </content>
+                </ScrollPane>
+            </center>
+        </BorderPane>
+    </children>
+</GridPane>
